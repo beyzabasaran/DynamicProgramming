@@ -1,8 +1,7 @@
 # DynamicProgramming
 
 # INTRODUCTION
-
-<br /><br />
+<br />
 In this assignment, we were expected to develop dynamic programming approach and greedy approach to maximize the output result 
 for the given specific scenario. 
 <br /><br />
